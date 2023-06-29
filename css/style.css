@@ -1,0 +1,238 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+:root {
+    --brand-color: #21264F;
+    --ocean: #303881;
+    --iris: #4B57C5;
+    --text-white: #ffffff;
+    --text-gray: #333;
+}
+
+.body {
+    font-family: Open Sans;
+    color: var(--brand-color);
+}
+
+.container {
+    outline: 1px solid red;
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 136px;
+    padding-right: 136px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* header */
+
+.head {
+    background-color: var(--text-white);
+}
+
+.arrow {
+    color: var(--text-gray);
+}
+
+.arrow::after {
+    content: url(../images/svg/arrow.svg);
+}
+
+.arrow,
+.link {
+    font-size: 13px;
+    line-height: 1.67;
+    
+}
+
+.link {
+    color: var(--brand-color);
+}
+
+.head-login {
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 1.67;
+    
+    color: #3D455C;
+    margin-right: 13px;
+}
+
+.button {
+    display: inline-block;
+    padding: 9px 14px;
+    font-size: 16px;
+    
+    font-weight: 800;
+    line-height: 1;
+    
+    color: var(--text-white);
+    border-radius: 32px;
+    background: var(--brand-color);
+}
+
+.logo {
+    margin-right: 22px;
+}
+
+.head .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.head-fearstblock {
+    display: flex;
+    align-items: center;
+}
+
+.head .list {
+    display: flex;
+    gap: 24px;
+}
+
+/* visit */
+
+.main {
+    background-image: url(../images/img/background@2x.jpg);
+    padding-top: 64px;
+    padding-bottom: 192px;
+}
+
+.visit-title {
+    font-size: 86px;
+    font-weight: 800;
+    line-height: 1.23;
+    letter-spacing: 2.64px;
+    margin-top: 0;
+    margin-bottom: 19px;
+    
+}
+
+.visit-text {
+    font-size: 32px;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.visit-link {
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 1.7;
+    color: var(--brand-color);
+    margin-left: 16px;
+}
+
+.visit .container {
+    display: flex;
+    align-items: center;
+}
+
+.slogan.container {
+    position: relative;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-top: 61px;
+    margin-bottom: 520px;
+}
+
+.slogan.container::before {
+    content: url(/images/img/group_2@2x.png);
+    position: absolute;
+    top: 0;
+    left: -50%;
+    width: 1440px;
+}
+
+.slogan-card {
+    padding: 60px 220px 507px;
+    border-radius: 40px;
+    background: var(--ocean);
+    
+
+}
+
+.slogan-title {
+    font-size: 66px;
+    font-weight: 800;
+    line-height: 1.24;
+    letter-spacing: 2.04px;
+
+    color: var(--text-white);
+
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.slogan-text {
+    font-size: 32px;
+    line-height: 1.2;
+
+    color: var(--text-white);
+
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.visit-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.section {
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.electronic spreadsheets {
+    margin-bottom: 48px;
+}
+
+.description {
+    width: 684px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.description .title {
+    font-size: 68px;
+    
+    font-weight: 800;
+    line-height: 1.23;
+    letter-spacing: 2.04px;
+    margin-top: 0;
+    margin-bottom: 17px;
+    
+
+}
+.description .text {
+    font-size: 32px;
+    
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+
