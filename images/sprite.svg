@@ -43,16 +43,6 @@
 </symbol>
 <symbol id="icon-arrow" viewBox="0 0 9 7">
 <path fill="#000" d="M1.058 0 0 1.332 4.5 7 9 1.332 7.942 0 4.5 4.327 1.058 0Z"/></g><g clip-path="url(#c)"><path fill="#000" d="M1.058 1 0 2.142 4.5 7 9 2.142 7.942 1 4.5 4.708 1.058 1Z"/></g></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h9v7H0z"/></clipPath><clipPath id="b"><path fill="#fff" d="M0 0h9v7H0z"/></clipPath><clipPath id="c"><path fill="#fff" d="M0 1h9v6H0z"/></clipPath></defs></path>
-</symbol>
-<symbol id="icon-google_play" viewBox="0 0 19 23">
-<path fill="url(#a)" d="M.474 1.188c-.244.247-.326.66-.326 1.154v18.233c0 .495.163.908.408 1.155l.081.082 10.104-10.23v-.164L.474 1.188Z"></path>
-<path fill="url(#b)" d="m14 15.048-3.34-3.383v-.247L14 8.035l.082.083 3.992 2.31c1.14.66 1.14 1.732 0 2.392L14 15.048Z"></path>
-<path fill="url(#c)" d="M14.082 14.965 10.659 11.5.474 21.813c.408.412.978.412 1.711.082l11.897-6.93Z"></path>
-<path fill="url(#d)" d="M14.082 8.035 2.184 1.188C1.452.775.882.858.475 1.27L10.658 11.5l3.422-3.465Z"></path>
-<path fill="#000" d="M14 14.882 2.185 21.647c-.652.413-1.222.33-1.63 0l-.08.083.08.082c.408.33.978.413 1.63 0L14 14.882Z" opacity=".2"></path>
-<path fill="#000" d="M.474 21.647c-.244-.247-.326-.66-.326-1.155v.083c0 .495.163.907.408 1.155v-.083H.474ZM18.074 12.572 14 14.883l.082.083 3.992-2.31c.57-.33.815-.742.815-1.155 0 .412-.326.742-.815 1.072Z" opacity=".12"></path>
-<path fill="#fff" d="m2.185 1.27 15.89 9.158c.488.33.814.66.814 1.072 0-.412-.244-.825-.815-1.155L2.185 1.188C1.045.528.148 1.023.148 2.343v.082c0-1.237.896-1.815 2.037-1.155Z" opacity=".25"></path>
-<linearGradient id="a" x1="9.763" x2="-4.082" y1="2.186" y2="15.859" gradientUnits="userSpaceOnUse" <stop stop-color="#00A0FF"></stop><stop offset=".007" stop-color="#00A1FF"></stop><stop offset=".26" stop-color="#00BEFF"></stop><stop offset=".512" stop-color="#00D2FF"></stop><stop offset=".76" stop-color="#00DFFF"></stop><stop offset="1" stop-color="#00E3FF"></stop>></linearGradient><linearGradient id="b" x1="19.569" x2="-.147" y1="11.502" y2="11.502" gradientUnits="userSpaceOnUse" <stop stop-color="#FFE000"></stop><stop offset=".409" stop-color="#FFBD00"></stop><stop offset=".775" stop-color="orange"></stop><stop offset="1" stop-color="#FF9C00"></stop>></linearGradient><linearGradient id="c" x1="12.229" x2="-6.545" y1="13.394" y2="31.937" gradientUnits="userSpaceOnUse" <stop stop-color="#FF3A44"></stop><stop offset="1" stop-color="#C31162"></stop>></linearGradient><linearGradient id="d" x1="-2.054" x2="6.329" y1="-4.854" y2="3.426" gradientUnits="userSpaceOnUse"><stop stop-color="#32A071"/><stop offset=".069" stop-color="#2DA771"/><stop offset=".476" stop-color="#15CF74"/><stop offset=".801" stop-color="#06E775"/><stop offset="1" stop-color="#00F076"/></linearGradient>
-</symbol>
+
 </defs>
 </svg>
